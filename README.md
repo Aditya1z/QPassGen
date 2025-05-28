@@ -34,7 +34,6 @@ QPassGen utilizes quantum superposition and measurement principles to generate t
 1. Clone the repository:
 ```bash
 https://github.com/Aditya1z/QPassGen.git
-cd quantum-password-generator
 ```
 
 2. Install required packages:
@@ -46,7 +45,7 @@ pip install -r requirements.txt
 
 Run the password generator:
 ```python
-python qpassgen.py
+python QPassGen.py
 ```
 
 The program will:
