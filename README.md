@@ -33,7 +33,7 @@ QPassGen utilizes quantum superposition and measurement principles to generate t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/quantum-password-generator.git
+https://github.com/Aditya1z/QPassGen.git
 cd quantum-password-generator
 ```
 
